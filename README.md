@@ -4,7 +4,7 @@
 ## Techs used:
 - **Java** (back-end)
 - **JavaFX Framework** and **CSS** (front-end)
-- **MySQL Workbench** (db)
+- **MySQL** (db)
 
 ## Libraries:
 - **fontawesomefx**
